@@ -25,3 +25,5 @@ ipch
 *.cache
 /obj
 /bin
+/bin/Release
+/bin/Debug
