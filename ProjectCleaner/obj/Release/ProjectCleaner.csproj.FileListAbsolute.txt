@@ -1,0 +1,5 @@
+Z:\Software\Project Cleaner\ProjectCleaner\ProjectCleaner\bin\Release\ProjectCleaner.exe.config
+Z:\Software\Project Cleaner\ProjectCleaner\ProjectCleaner\bin\Release\ProjectCleaner.exe
+Z:\Software\Project Cleaner\ProjectCleaner\ProjectCleaner\bin\Release\ProjectCleaner.pdb
+Z:\Software\Project Cleaner\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.exe
+Z:\Software\Project Cleaner\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.pdb

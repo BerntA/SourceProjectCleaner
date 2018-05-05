@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ProjectCleaner")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Source Project Cleaner")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Reperio Studios")]
 [assembly: AssemblyProduct("ProjectCleaner")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © Reperio Studios 2018")]
+[assembly: AssemblyTrademark("BAE")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
